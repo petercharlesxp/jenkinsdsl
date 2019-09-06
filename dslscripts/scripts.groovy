@@ -67,5 +67,5 @@ deliveryPipelineView('job-dsl delivery pipeline') {
     pipelines {
         component('job-dsl delivery pipeline', 'job-dsl-checkout')
     }
-  */
 }
+*/
