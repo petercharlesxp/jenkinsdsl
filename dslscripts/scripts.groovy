@@ -62,7 +62,6 @@ listView('List View DSLs') {
     }
 }
 
-/*
 deliveryPipelineView('job-dsl delivery pipeline') {
     showAggregatedPipeline true
     enableManualTriggers true
@@ -71,4 +70,3 @@ deliveryPipelineView('job-dsl delivery pipeline') {
         component('job-dsl delivery pipeline', 'job-dsl-checkout')
     }
 }
-*/
